@@ -33,7 +33,7 @@ def convert_image_to_webp_base64(input_image_path):
     try:
         with Image.open(input_image_path) as img:
             byte_arr = io.BytesIO()
-            img.save(byte_arr, format='webp')
+            img.save(byte_arr, format='PNG')
             byte_arr = byte_arr.getvalue()
             base64_str = base64.b64encode(byte_arr).decode('utf-8')
             return base64_str
@@ -61,7 +61,7 @@ def get_full_response_from_image(client, system_prompt, base64_image, que):
                     {
                         "type": "image_url",
                         "image_url": {
-                            "url": f"data:image/webp;base64,{base64_image}"
+                            "url": f"data:image/png;base64,{base64_image}"
                         }
                     },
                     {
