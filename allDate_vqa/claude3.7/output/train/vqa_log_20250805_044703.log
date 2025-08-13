@@ -1,0 +1,9 @@
+2025-08-05 04:47:03,520 - INFO - Logging initialized. Log file: /home/jupyter-lpy/project/target_detection/CAD_VQA/allDate_vqa/claude3.7/output/train/vqa_log_20250805_044703.log
+2025-08-05 04:47:08,911 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-05 04:47:08,914 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在电视柜？'. Retrying in 5s...
+2025-08-05 04:47:19,260 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-05 04:47:19,261 - WARNING - API error (attempt 2/3) for question: '当前CAD图像中是否存在电视柜？'. Retrying in 10s...
+2025-08-05 04:47:34,018 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-05 04:47:34,019 - ERROR - Critical API failure for image 1084-0010: API failed after 3 attempts for question: '当前CAD图像中是否存在电视柜？'. Error: Error code: 400 - {'error': {'message': 'bad response status code 400  (request id: 2025080512473029721115579147522)', 'type': 'upstream_error', 'param': '400', 'code': 'bad_response_status_code'}}
+2025-08-05 04:47:34,020 - INFO - API retries exhausted. Saving progress and exiting.
+2025-08-05 04:47:34,303 - INFO - Final checkpoint saved.

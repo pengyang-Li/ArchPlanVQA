@@ -1,0 +1,496 @@
+2025-08-06 08:17:41,059 - INFO - Logging initialized. Log file: /home/jupyter-lpy/project/target_detection/CAD_VQA/allDate_vqa/claude3.7/output/train/vqa_log_20250806_081741.log
+2025-08-06 08:17:47,715 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:17:55,935 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:02,263 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:09,966 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:17,047 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:24,993 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:31,038 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:31,040 - INFO - Successfully processed image 1224-0017
+2025-08-06 08:18:38,098 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:38,100 - INFO - Successfully processed image 0557-2287
+2025-08-06 08:18:45,048 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:45,049 - INFO - Successfully processed image 1194-0007
+2025-08-06 08:18:50,821 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:18:50,822 - INFO - Successfully processed image 0591-0954
+2025-08-06 08:18:57,355 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:04,268 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:04,269 - INFO - Successfully processed image 0104-0104
+2025-08-06 08:19:04,491 - INFO - Checkpoint saved. Processed 5/681 images.
+2025-08-06 08:19:10,907 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:16,609 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:16,610 - INFO - Successfully processed image 0137-0012
+2025-08-06 08:19:26,388 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:34,411 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:43,179 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:43,181 - INFO - Successfully processed image 1039-0347
+2025-08-06 08:19:48,311 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:55,548 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:19:55,549 - INFO - Successfully processed image 0231-0009
+2025-08-06 08:20:01,114 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:06,281 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:06,281 - INFO - Successfully processed image 0129-0028
+2025-08-06 08:20:13,364 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:20,210 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:28,363 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:28,364 - INFO - Successfully processed image 0390-0080
+2025-08-06 08:20:28,562 - INFO - Checkpoint saved. Processed 10/681 images.
+2025-08-06 08:20:35,072 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:41,356 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:47,952 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:47,954 - INFO - Successfully processed image 0382-0027
+2025-08-06 08:20:53,609 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:59,070 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:20:59,072 - INFO - Successfully processed image 0555-0021
+2025-08-06 08:21:06,638 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:17,740 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:23,692 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:30,785 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:30,787 - INFO - Successfully processed image 0668-0017
+2025-08-06 08:21:36,075 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:42,932 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:48,995 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:21:55,063 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:01,660 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:01,661 - INFO - Successfully processed image 0351-0005
+2025-08-06 08:22:07,352 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:11,603 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:11,604 - INFO - Successfully processed image 0003-0040
+2025-08-06 08:22:11,811 - INFO - Checkpoint saved. Processed 15/681 images.
+2025-08-06 08:22:17,685 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:24,811 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:29,552 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:29,554 - INFO - Successfully processed image 0440-0010
+2025-08-06 08:22:34,384 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:42,166 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:47,657 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:47,659 - INFO - Successfully processed image 0300-0043
+2025-08-06 08:22:52,945 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:22:57,968 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:03,787 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:10,399 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:16,533 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:16,534 - INFO - Successfully processed image 0559-0002
+2025-08-06 08:23:22,562 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:22,563 - INFO - Successfully processed image 0033-0024
+2025-08-06 08:23:30,236 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:37,512 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:43,025 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:50,013 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:23:59,304 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:07,166 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:15,694 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:15,695 - INFO - Successfully processed image 0308-0420
+2025-08-06 08:24:15,896 - INFO - Checkpoint saved. Processed 20/681 images.
+2025-08-06 08:24:23,774 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:31,696 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:39,909 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:39,911 - INFO - Successfully processed image 0134-0057
+2025-08-06 08:24:46,567 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:46,568 - INFO - Successfully processed image 0301-0004
+2025-08-06 08:24:52,260 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:24:57,384 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:04,491 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:04,492 - INFO - Successfully processed image 0091-0009
+2025-08-06 08:25:09,996 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:14,956 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:20,534 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:20,536 - INFO - Successfully processed image 0046-0053
+2025-08-06 08:25:26,601 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:31,962 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:39,017 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:44,177 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:51,000 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:51,001 - INFO - Successfully processed image 0424-0017
+2025-08-06 08:25:51,203 - INFO - Checkpoint saved. Processed 25/681 images.
+2025-08-06 08:25:58,047 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:25:58,049 - INFO - Successfully processed image 0006-0032
+2025-08-06 08:26:05,526 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:05,528 - INFO - Successfully processed image 1306-0027
+2025-08-06 08:26:13,267 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:17,788 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:17,789 - INFO - Successfully processed image 0985-0004
+2025-08-06 08:26:22,391 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:22,392 - INFO - Successfully processed image 0093-0003
+2025-08-06 08:26:27,811 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:33,843 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:39,932 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:46,004 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:46,005 - INFO - Successfully processed image 0865-0033
+2025-08-06 08:26:46,204 - INFO - Checkpoint saved. Processed 30/681 images.
+2025-08-06 08:26:53,519 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:26:53,520 - INFO - Successfully processed image 1153-0010
+2025-08-06 08:27:00,426 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:05,557 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:11,577 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:11,579 - INFO - Successfully processed image 0269-0042
+2025-08-06 08:27:18,379 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:18,384 - INFO - Successfully processed image 0349-0865
+2025-08-06 08:27:25,122 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:33,825 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:41,748 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:49,104 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:27:49,105 - INFO - Successfully processed image 0633-0012
+2025-08-06 08:27:54,247 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:00,777 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:00,779 - INFO - Successfully processed image 0040-0041
+2025-08-06 08:28:00,982 - INFO - Checkpoint saved. Processed 35/681 images.
+2025-08-06 08:28:06,718 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:06,720 - INFO - Successfully processed image 0283-0015
+2025-08-06 08:28:13,883 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:13,884 - INFO - Successfully processed image 1276-0058
+2025-08-06 08:28:20,448 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:20,450 - INFO - Successfully processed image 0799-0057
+2025-08-06 08:28:26,510 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:33,814 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:40,885 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:48,239 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:55,642 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:28:55,643 - INFO - Successfully processed image 0481-0006
+2025-08-06 08:29:01,327 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:01,328 - INFO - Successfully processed image 0384-0010
+2025-08-06 08:29:01,525 - INFO - Checkpoint saved. Processed 40/681 images.
+2025-08-06 08:29:07,498 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:14,777 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:22,401 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:22,403 - INFO - Successfully processed image 0049-0187
+2025-08-06 08:29:28,803 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:36,081 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:42,104 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:48,827 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:29:48,828 - INFO - Successfully processed image 0141-0016
+2025-08-06 08:29:55,449 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:01,948 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:01,950 - INFO - Successfully processed image 0297-2210
+2025-08-06 08:30:07,542 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:13,046 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:20,054 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:20,054 - INFO - Successfully processed image 0078-0010
+2025-08-06 08:30:26,643 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:31,642 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:31,643 - INFO - Successfully processed image 0121-0007
+2025-08-06 08:30:31,843 - INFO - Checkpoint saved. Processed 45/681 images.
+2025-08-06 08:30:37,390 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:43,810 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:43,811 - INFO - Successfully processed image 0400-0028
+2025-08-06 08:30:50,219 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:30:50,220 - INFO - Successfully processed image 0105-0017
+2025-08-06 08:30:58,080 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:02,573 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:09,262 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:09,263 - INFO - Successfully processed image 0522-0005
+2025-08-06 08:31:15,404 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:21,121 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:21,123 - INFO - Successfully processed image 1229-2201
+2025-08-06 08:31:27,150 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:32,919 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:32,920 - INFO - Successfully processed image 0296-0012
+2025-08-06 08:31:33,118 - INFO - Checkpoint saved. Processed 50/681 images.
+2025-08-06 08:31:37,533 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:45,214 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:49,744 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:49,745 - INFO - Successfully processed image 0344-0013
+2025-08-06 08:31:56,566 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:31:56,567 - INFO - Successfully processed image 0496-0016
+2025-08-06 08:32:02,874 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:10,736 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:10,738 - INFO - Successfully processed image 0947-0135
+2025-08-06 08:32:14,854 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:22,325 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:28,965 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:28,967 - INFO - Successfully processed image 1052-0023
+2025-08-06 08:32:35,564 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:41,670 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:41,671 - INFO - Successfully processed image 1002-0074
+2025-08-06 08:32:41,870 - INFO - Checkpoint saved. Processed 55/681 images.
+2025-08-06 08:32:46,544 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:50,581 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:32:50,583 - INFO - Successfully processed image 0031-0006
+2025-08-06 08:32:57,857 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:03,629 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:10,999 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:11,000 - INFO - Successfully processed image 0060-0074
+2025-08-06 08:33:16,587 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:16,589 - INFO - Successfully processed image 0614-0115
+2025-08-06 08:33:22,878 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:22,880 - INFO - Successfully processed image 0286-0008
+2025-08-06 08:33:29,836 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:29,838 - INFO - Successfully processed image 0766-0008
+2025-08-06 08:33:30,043 - INFO - Checkpoint saved. Processed 60/681 images.
+2025-08-06 08:33:35,400 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:35,401 - INFO - Successfully processed image 0349-0625
+2025-08-06 08:33:41,207 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:46,824 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:46,825 - INFO - Successfully processed image 0131-0032
+2025-08-06 08:33:52,666 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:57,732 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:33:57,733 - INFO - Successfully processed image 0488-0005
+2025-08-06 08:34:03,356 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:03,358 - INFO - Successfully processed image 0364-0044
+2025-08-06 08:34:09,641 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:09,643 - INFO - Successfully processed image 1228-0121
+2025-08-06 08:34:09,840 - INFO - Checkpoint saved. Processed 65/681 images.
+2025-08-06 08:34:18,531 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:29,472 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:37,846 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:37,847 - INFO - Successfully processed image 0388-0046
+2025-08-06 08:34:44,645 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:50,978 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:34:50,980 - INFO - Successfully processed image 0080-0009
+2025-08-06 08:34:58,086 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:04,204 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:10,750 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:16,263 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:23,827 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:23,829 - INFO - Successfully processed image 0260-0003
+2025-08-06 08:35:29,493 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:29,495 - INFO - Successfully processed image 0282-0028
+2025-08-06 08:35:34,135 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:39,636 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:39,637 - INFO - Successfully processed image 0029-0432
+2025-08-06 08:35:39,838 - INFO - Checkpoint saved. Processed 70/681 images.
+2025-08-06 08:35:46,603 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:50,703 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:50,705 - INFO - Successfully processed image 0092-0010
+2025-08-06 08:35:57,356 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:35:57,357 - INFO - Successfully processed image 0397-0091
+2025-08-06 08:36:03,362 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:03,363 - INFO - Successfully processed image 0198-0003
+2025-08-06 08:36:09,811 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:17,379 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:23,366 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:29,332 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:35,549 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:35,551 - INFO - Successfully processed image 0590-0026
+2025-08-06 08:36:40,892 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:45,762 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:45,764 - INFO - Successfully processed image 0304-0048
+2025-08-06 08:36:45,966 - INFO - Checkpoint saved. Processed 75/681 images.
+2025-08-06 08:36:51,863 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:36:59,821 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:05,864 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:05,866 - INFO - Successfully processed image 0019-0022
+2025-08-06 08:37:13,779 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:20,208 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:26,685 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:26,686 - INFO - Successfully processed image 0904-0009
+2025-08-06 08:37:33,058 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:40,832 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:47,019 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:53,839 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:59,242 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:37:59,242 - INFO - Successfully processed image 0451-0005
+2025-08-06 08:38:05,522 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:05,523 - INFO - Successfully processed image 0786-0039
+2025-08-06 08:38:13,058 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:20,818 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:20,819 - INFO - Successfully processed image 0674-0670
+2025-08-06 08:38:21,020 - INFO - Checkpoint saved. Processed 80/681 images.
+2025-08-06 08:38:27,619 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:27,620 - INFO - Successfully processed image 0264-0010
+2025-08-06 08:38:33,258 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:38,706 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:46,679 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:38:46,680 - INFO - Successfully processed image 0026-0025
+2025-08-06 08:38:55,008 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:03,619 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:09,321 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:15,336 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:15,337 - INFO - Successfully processed image 0987-0031
+2025-08-06 08:39:21,642 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:26,147 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:30,263 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:30,264 - INFO - Successfully processed image 0349-1023
+2025-08-06 08:39:35,675 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:35,677 - INFO - Successfully processed image 0407-0068
+2025-08-06 08:39:35,878 - INFO - Checkpoint saved. Processed 85/681 images.
+2025-08-06 08:39:43,143 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:52,169 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:39:52,170 - INFO - Successfully processed image 0397-0089
+2025-08-06 08:39:59,955 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:07,979 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:07,980 - INFO - Successfully processed image 0390-0105
+2025-08-06 08:40:14,667 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:14,669 - INFO - Successfully processed image 0344-0023
+2025-08-06 08:40:21,112 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:27,216 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:34,932 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:40,856 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:40,857 - INFO - Successfully processed image 0143-0007
+2025-08-06 08:40:46,300 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:53,974 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:40:58,676 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:04,414 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:04,415 - INFO - Successfully processed image 1174-0150
+2025-08-06 08:41:04,617 - INFO - Checkpoint saved. Processed 90/681 images.
+2025-08-06 08:41:09,959 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:09,960 - INFO - Successfully processed image 0901-0057
+2025-08-06 08:41:16,924 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:16,926 - INFO - Successfully processed image 0626-0005
+2025-08-06 08:41:22,238 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:27,388 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:27,389 - INFO - Successfully processed image 0478-0727
+2025-08-06 08:41:34,330 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:40,453 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:40,454 - INFO - Successfully processed image 0328-0245
+2025-08-06 08:41:45,798 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:50,480 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:41:50,481 - INFO - Successfully processed image 0101-0077
+2025-08-06 08:41:50,678 - INFO - Checkpoint saved. Processed 95/681 images.
+2025-08-06 08:41:56,642 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:03,123 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:03,125 - INFO - Successfully processed image 0346-0039
+2025-08-06 08:42:08,970 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:08,972 - INFO - Successfully processed image 0487-0020
+2025-08-06 08:42:15,420 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:21,064 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:26,640 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:33,764 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:33,766 - INFO - Successfully processed image 1198-0031
+2025-08-06 08:42:40,960 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:40,962 - INFO - Successfully processed image 0349-0980
+2025-08-06 08:42:46,457 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:52,744 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:58,035 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:42:58,037 - INFO - Successfully processed image 0446-0033
+2025-08-06 08:42:58,235 - INFO - Checkpoint saved. Processed 100/681 images.
+2025-08-06 08:43:04,274 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:11,225 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:11,227 - INFO - Successfully processed image 0652-0199
+2025-08-06 08:43:17,332 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:23,716 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:30,456 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:35,729 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:42,520 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:42,522 - INFO - Successfully processed image 0460-0004
+2025-08-06 08:43:49,334 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:49,336 - INFO - Successfully processed image 0007-0024
+2025-08-06 08:43:56,193 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:43:56,195 - INFO - Successfully processed image 0684-0016
+2025-08-06 08:44:00,958 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:06,544 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:11,770 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:11,771 - INFO - Successfully processed image 0281-0006
+2025-08-06 08:44:11,982 - INFO - Checkpoint saved. Processed 105/681 images.
+2025-08-06 08:44:17,860 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:24,428 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:24,429 - INFO - Successfully processed image 0076-0008
+2025-08-06 08:44:29,578 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:34,971 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:40,063 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:40,064 - INFO - Successfully processed image 0271-0038
+2025-08-06 08:44:46,760 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:50,655 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:44:50,655 - INFO - Successfully processed image 0669-0027
+2025-08-06 08:44:56,245 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:02,802 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:02,803 - INFO - Successfully processed image 0350-0003
+2025-08-06 08:45:09,073 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:09,075 - INFO - Successfully processed image 0109-0028
+2025-08-06 08:45:09,278 - INFO - Checkpoint saved. Processed 110/681 images.
+2025-08-06 08:45:14,732 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:21,702 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:21,704 - INFO - Successfully processed image 0905-0053
+2025-08-06 08:45:27,846 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:27,847 - INFO - Successfully processed image 0303-0023
+2025-08-06 08:45:35,141 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:35,142 - INFO - Successfully processed image 0870-0011
+2025-08-06 08:45:42,190 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:42,191 - INFO - Successfully processed image 0988-0004
+2025-08-06 08:45:48,102 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:54,078 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:45:54,080 - INFO - Successfully processed image 0478-0696
+2025-08-06 08:45:54,290 - INFO - Checkpoint saved. Processed 115/681 images.
+2025-08-06 08:46:00,292 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:05,323 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:05,324 - INFO - Successfully processed image 0066-0011
+2025-08-06 08:46:11,629 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:18,699 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:18,700 - INFO - Successfully processed image 0396-0041
+2025-08-06 08:46:24,541 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:24,543 - INFO - Successfully processed image 0297-2211
+2025-08-06 08:46:31,189 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:38,271 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:43,687 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:51,320 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:46:51,322 - INFO - Successfully processed image 0855-0013
+2025-08-06 08:46:57,398 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:04,039 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:10,030 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:10,032 - INFO - Successfully processed image 0431-0005
+2025-08-06 08:47:10,246 - INFO - Checkpoint saved. Processed 120/681 images.
+2025-08-06 08:47:16,428 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:16,430 - INFO - Successfully processed image 0892-0010
+2025-08-06 08:47:22,745 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:28,288 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:28,290 - INFO - Successfully processed image 0107-0008
+2025-08-06 08:47:34,721 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:43,366 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:51,014 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:47:58,637 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:05,508 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:12,304 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:12,306 - INFO - Successfully processed image 0949-0022
+2025-08-06 08:48:19,211 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:19,212 - INFO - Successfully processed image 1188-0285
+2025-08-06 08:48:27,209 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:27,211 - INFO - Successfully processed image 0387-0057
+2025-08-06 08:48:27,422 - INFO - Checkpoint saved. Processed 125/681 images.
+2025-08-06 08:48:32,664 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:39,336 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:45,837 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:53,079 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:48:53,081 - INFO - Successfully processed image 0556-0006
+2025-08-06 08:49:00,854 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:07,455 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:12,638 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:12,639 - INFO - Successfully processed image 0119-0108
+2025-08-06 08:49:19,249 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:19,250 - INFO - Successfully processed image 0079-0011
+2025-08-06 08:49:25,992 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:32,121 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:38,706 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:44,952 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:51,066 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:49:51,067 - INFO - Successfully processed image 0260-0002
+2025-08-06 08:49:58,610 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:05,912 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:12,751 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:12,752 - INFO - Successfully processed image 0482-0024
+2025-08-06 08:50:12,961 - INFO - Checkpoint saved. Processed 130/681 images.
+2025-08-06 08:50:20,283 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:20,285 - INFO - Successfully processed image 0022-0022
+2025-08-06 08:50:27,107 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:27,109 - INFO - Successfully processed image 0031-0017
+2025-08-06 08:50:33,147 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:40,234 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:46,305 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:52,858 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:50:59,896 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:05,369 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:05,371 - INFO - Successfully processed image 0487-0012
+2025-08-06 08:51:10,972 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:10,973 - INFO - Successfully processed image 0101-0076
+2025-08-06 08:51:17,519 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:25,966 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:32,541 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:38,676 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:38,677 - INFO - Successfully processed image 0013-0009
+2025-08-06 08:51:38,885 - INFO - Checkpoint saved. Processed 135/681 images.
+2025-08-06 08:51:45,488 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:51,468 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:51:51,469 - INFO - Successfully processed image 0940-0128
+2025-08-06 08:51:57,649 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:52:03,792 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:52:03,793 - INFO - Successfully processed image 1175-0012
+2025-08-06 08:52:10,512 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:52:10,514 - INFO - Successfully processed image 1137-0006
+2025-08-06 08:52:18,928 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-06 08:52:20,379 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-06 08:52:20,380 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(80.18,39.62)的电梯的实际面积是多少？'. Retrying in 5s...
+2025-08-06 08:52:26,963 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-06 08:52:26,964 - WARNING - API error (attempt 2/3) for question: '当前CAD图像中位于(80.18,39.62)的电梯的实际面积是多少？'. Retrying in 10s...
+2025-08-06 08:52:38,696 - INFO - HTTP Request: POST https://api.gpt.ge/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-06 08:52:38,697 - ERROR - Critical API failure for image 0137-0019: API failed after 3 attempts for question: '当前CAD图像中位于(80.18,39.62)的电梯的实际面积是多少？'. Error: Error code: 400 - {'error': {'message': '没有可用token  (request id: 2025080616523821259490238639189)', 'type': 'upstream_error', 'param': '400', 'code': 'bad_response_status_code'}}
+2025-08-06 08:52:38,697 - INFO - API retries exhausted. Saving progress and exiting.
+2025-08-06 08:52:39,123 - INFO - Final checkpoint saved.

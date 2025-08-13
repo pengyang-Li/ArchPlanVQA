@@ -1,0 +1,532 @@
+2025-08-02 00:56:10,302 - INFO - Logging initialized. Log file: /home/jupyter-lpy/project/target_detection/CAD_VQA/allDate_vqa/qwen/output/val/vqa_log_20250802_005610.log
+2025-08-02 00:56:13,730 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:18,460 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:18,462 - INFO - Successfully processed image 0110-0075
+2025-08-02 00:56:21,445 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:21,446 - INFO - Successfully processed image 1188-0283
+2025-08-02 00:56:24,481 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:27,698 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:27,700 - INFO - Successfully processed image 0131-0036
+2025-08-02 00:56:31,766 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:36,218 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:36,219 - INFO - Successfully processed image 0331-0012
+2025-08-02 00:56:39,042 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:42,094 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:48,301 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:48,302 - INFO - Successfully processed image 0335-0020
+2025-08-02 00:56:48,303 - INFO - Checkpoint saved. Processed 5/764 images.
+2025-08-02 00:56:48,466 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-08-02 00:56:52,120 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:55,642 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:55,644 - INFO - Successfully processed image 0033-0043
+2025-08-02 00:56:58,635 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:56:58,637 - INFO - Successfully processed image 0196-0014
+2025-08-02 00:56:58,760 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:56:59,268 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:00,079 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:00,082 - WARNING - API error (attempt 1/3) for question: '当前CAD图像里有无栏杆？'. Retrying in 5s...
+2025-08-02 00:57:07,786 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:57:07,788 - INFO - Successfully processed image 0480-0016
+2025-08-02 00:57:07,940 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:08,479 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:09,504 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:09,506 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个楼梯？'. Retrying in 5s...
+2025-08-02 00:57:17,695 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:57:17,765 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:18,195 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:19,107 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:19,108 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(9.93,24.62)的电梯的实际尺寸多大？'. Retrying in 5s...
+2025-08-02 00:57:28,356 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:57:28,437 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:28,956 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:29,799 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:29,800 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(63.93,62.65)的双扇门规格参数是多少？'. Retrying in 5s...
+2025-08-02 00:57:38,547 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:57:38,608 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:39,036 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:39,840 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:39,841 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中的卫生间配置了哪些卫生洁具？'. Retrying in 5s...
+2025-08-02 00:57:52,094 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:57:52,096 - INFO - Successfully processed image 0137-0004
+2025-08-02 00:57:55,128 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:57:55,192 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:55,668 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:56,596 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:57:56,597 - WARNING - API error (attempt 1/3) for question: '该空间属于哪种建筑功能类型？'. Retrying in 5s...
+2025-08-02 00:58:01,712 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:02,151 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:02,957 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:02,959 - WARNING - API error (attempt 2/3) for question: '该空间属于哪种建筑功能类型？'. Retrying in 10s...
+2025-08-02 00:58:16,435 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:16,437 - INFO - Successfully processed image 0303-0046
+2025-08-02 00:58:16,438 - INFO - Checkpoint saved. Processed 10/764 images.
+2025-08-02 00:58:16,605 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:17,122 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:18,077 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:18,078 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个自动扶梯？'. Retrying in 5s...
+2025-08-02 00:58:27,290 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:27,292 - INFO - Successfully processed image 0378-0021
+2025-08-02 00:58:27,395 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:27,849 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:31,614 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:31,616 - INFO - Successfully processed image 1163-3578
+2025-08-02 00:58:31,729 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:35,208 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:35,210 - INFO - Successfully processed image 0360-0006
+2025-08-02 00:58:35,373 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:35,901 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:36,889 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:36,890 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个开口？'. Retrying in 5s...
+2025-08-02 00:58:45,377 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:45,462 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:45,901 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:46,764 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:46,765 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(8.18,50.41)的电梯的实际尺寸多大？'. Retrying in 5s...
+2025-08-02 00:58:55,195 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:59,275 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:58:59,356 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:58:59,908 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:00,731 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:00,732 - WARNING - API error (attempt 1/3) for question: '煤气炉与水槽的间距是否大于0.6m？'. Retrying in 5s...
+2025-08-02 00:59:10,437 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:59:15,601 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:59:15,603 - INFO - Successfully processed image 0270-0004
+2025-08-02 00:59:15,738 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:16,156 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:17,034 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:17,035 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在排椅子？'. Retrying in 5s...
+2025-08-02 00:59:24,842 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:59:24,843 - INFO - Successfully processed image 0581-0671
+2025-08-02 00:59:24,845 - INFO - Checkpoint saved. Processed 15/764 images.
+2025-08-02 00:59:24,994 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:25,461 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:26,499 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:26,501 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在浴缸？'. Retrying in 5s...
+2025-08-02 00:59:34,431 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:59:34,433 - INFO - Successfully processed image 0029-0543
+2025-08-02 00:59:37,726 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:59:37,805 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:38,316 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:39,192 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:39,193 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中的卫生间配置了哪些卫生洁具？'. Retrying in 5s...
+2025-08-02 00:59:47,943 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 00:59:47,945 - INFO - Successfully processed image 0076-0001
+2025-08-02 00:59:48,128 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:48,587 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:49,547 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 00:59:49,549 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在栏杆？'. Retrying in 5s...
+2025-08-02 00:59:57,590 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:01,512 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:01,592 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:02,080 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:03,031 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:03,032 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(91.0,99.25)的窗规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:00:10,797 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:10,871 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:15,326 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:15,402 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:15,860 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:21,115 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:23,693 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:23,769 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:29,574 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:29,576 - INFO - Successfully processed image 0469-0004
+2025-08-02 01:00:29,708 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:30,142 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:30,952 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:30,953 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在洗衣机？'. Retrying in 5s...
+2025-08-02 01:00:38,522 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:38,524 - INFO - Successfully processed image 0123-0015
+2025-08-02 01:00:38,686 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:39,239 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:40,072 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:40,073 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个盲窗？'. Retrying in 5s...
+2025-08-02 01:00:48,778 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:48,850 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:53,381 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:00:53,384 - INFO - Successfully processed image 0006-0001
+2025-08-02 01:00:53,386 - INFO - Checkpoint saved. Processed 20/764 images.
+2025-08-02 01:00:53,553 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:53,986 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:54,889 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:00:54,891 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在停车位？'. Retrying in 5s...
+2025-08-02 01:01:02,816 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:06,280 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:06,371 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:06,909 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:07,848 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:07,849 - WARNING - API error (attempt 1/3) for question: '该空间属于哪种建筑功能类型？'. Retrying in 5s...
+2025-08-02 01:01:12,995 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:13,428 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:17,526 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:17,528 - INFO - Successfully processed image 0388-0078
+2025-08-02 01:01:17,621 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:20,825 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:20,827 - INFO - Successfully processed image 0966-1244
+2025-08-02 01:01:20,941 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:21,376 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:22,335 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:22,336 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个单扇门？'. Retrying in 5s...
+2025-08-02 01:01:32,960 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:33,028 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:33,483 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:37,967 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:37,969 - INFO - Successfully processed image 0059-0025
+2025-08-02 01:01:38,118 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:38,614 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:39,570 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:39,571 - WARNING - API error (attempt 1/3) for question: '当前CAD图像里有无窗？'. Retrying in 5s...
+2025-08-02 01:01:47,690 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:47,692 - INFO - Successfully processed image 1282-0004
+2025-08-02 01:01:47,827 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:48,323 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:49,292 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:49,293 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个单扇门？'. Retrying in 5s...
+2025-08-02 01:01:57,450 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:01:57,519 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:58,036 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:59,018 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:01:59,019 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(8.94,3.95)的单扇门规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:02:07,863 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:02:07,930 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:08,451 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:09,265 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:09,266 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中的卫生间配置了哪些卫生洁具？'. Retrying in 5s...
+2025-08-02 01:02:14,404 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:14,970 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:16,003 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:16,004 - WARNING - API error (attempt 2/3) for question: '当前CAD图像中的卫生间配置了哪些卫生洁具？'. Retrying in 10s...
+2025-08-02 01:02:29,364 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:02:29,367 - INFO - Successfully processed image 0036-0038
+2025-08-02 01:02:29,369 - INFO - Checkpoint saved. Processed 25/764 images.
+2025-08-02 01:02:33,566 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:02:33,637 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:34,122 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:35,009 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:35,010 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(22.72,12.41)的单扇门规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:02:42,663 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:02:42,665 - INFO - Successfully processed image 0006-0045
+2025-08-02 01:02:45,771 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:02:45,772 - INFO - Successfully processed image 1059-0015
+2025-08-02 01:02:45,904 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:46,413 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:47,273 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:02:47,274 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在楼梯？'. Retrying in 5s...
+2025-08-02 01:02:57,791 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:02:57,793 - INFO - Successfully processed image 0277-0011
+2025-08-02 01:03:01,368 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:01,369 - INFO - Successfully processed image 0851-0329
+2025-08-02 01:03:01,526 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:02,003 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:02,914 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:02,916 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个坐便器？'. Retrying in 5s...
+2025-08-02 01:03:11,105 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:11,187 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:11,724 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:12,562 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:12,563 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(41.5,50.75)的浴室的实际面积是多少？'. Retrying in 5s...
+2025-08-02 01:03:27,900 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:31,055 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:34,040 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:37,242 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:37,243 - INFO - Successfully processed image 0973-0007
+2025-08-02 01:03:37,247 - INFO - Checkpoint saved. Processed 30/764 images.
+2025-08-02 01:03:37,419 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:37,888 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:38,824 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:38,825 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在停车位？'. Retrying in 5s...
+2025-08-02 01:03:47,260 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:50,125 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:03:50,127 - INFO - Successfully processed image 0383-0062
+2025-08-02 01:03:50,276 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:50,711 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:51,670 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:03:51,671 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个双扇门？'. Retrying in 5s...
+2025-08-02 01:04:00,185 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:00,270 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:00,723 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:01,782 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:01,784 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(5.57,57.6)的电梯的实际尺寸多大？'. Retrying in 5s...
+2025-08-02 01:04:12,127 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:15,426 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:15,427 - INFO - Successfully processed image 0198-0035
+2025-08-02 01:04:15,589 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:16,086 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:16,920 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:16,921 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个单扇门？'. Retrying in 5s...
+2025-08-02 01:04:29,816 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:29,897 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:30,360 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:31,424 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:31,425 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(84.66,93.53)的桌子的实际尺寸多大？'. Retrying in 5s...
+2025-08-02 01:04:39,090 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:41,816 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:47,347 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:04:47,436 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:47,923 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:48,799 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:04:48,801 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中卫生间的使用面积符合《住宅设计规范GB 50096-2011》吗？'. Retrying in 5s...
+2025-08-02 01:04:57,974 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:01,069 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:01,156 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:01,678 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:02,658 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:02,659 - WARNING - API error (attempt 1/3) for question: '煤气炉与水槽的间距是否大于0.6m？'. Retrying in 5s...
+2025-08-02 01:05:07,780 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:08,196 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:12,489 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:12,559 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:13,008 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:17,718 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:17,720 - INFO - Successfully processed image 0489-0013
+2025-08-02 01:05:17,859 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:18,282 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:19,324 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:19,325 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个盲窗？'. Retrying in 5s...
+2025-08-02 01:05:28,134 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:28,197 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:28,627 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:29,540 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:29,541 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(91.97,62.03)的单扇门规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:05:37,759 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:37,761 - INFO - Successfully processed image 0418-0003
+2025-08-02 01:05:37,868 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:40,993 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:41,049 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:41,516 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:42,329 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:42,330 - WARNING - API error (attempt 1/3) for question: '该空间属于哪种建筑功能类型？'. Retrying in 5s...
+2025-08-02 01:05:50,225 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:05:50,227 - INFO - Successfully processed image 0355-0006
+2025-08-02 01:05:50,231 - INFO - Checkpoint saved. Processed 35/764 images.
+2025-08-02 01:05:50,409 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:50,922 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:51,913 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:05:51,914 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个水槽？'. Retrying in 5s...
+2025-08-02 01:05:59,123 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:01,920 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:01,921 - INFO - Successfully processed image 0746-0013
+2025-08-02 01:06:02,043 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:02,472 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:03,498 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:03,499 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在窗？'. Retrying in 5s...
+2025-08-02 01:06:11,394 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:11,396 - INFO - Successfully processed image 0423-0006
+2025-08-02 01:06:14,669 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:14,739 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:15,203 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:16,243 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:16,244 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(76.28,95.06)的桌子的实际尺寸多大？'. Retrying in 5s...
+2025-08-02 01:06:25,976 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:26,038 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:26,502 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:27,499 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:27,500 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中电梯具有哪些用途类型？'. Retrying in 5s...
+2025-08-02 01:06:35,672 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:35,735 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:43,123 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:43,188 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:43,668 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:48,257 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:06:48,323 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:48,830 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:49,876 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:06:49,877 - WARNING - API error (attempt 1/3) for question: '煤气炉与水槽的间距是否大于0.6m？'. Retrying in 5s...
+2025-08-02 01:06:57,704 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:00,841 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:00,842 - INFO - Successfully processed image 0523-0016
+2025-08-02 01:07:00,969 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:01,441 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:02,340 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:02,341 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在浴缸？'. Retrying in 5s...
+2025-08-02 01:07:10,144 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:10,146 - INFO - Successfully processed image 1122-0004
+2025-08-02 01:07:10,313 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:10,862 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:11,699 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:11,700 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个双扇门？'. Retrying in 5s...
+2025-08-02 01:07:21,647 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:21,722 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:25,928 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:26,008 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:29,163 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:29,240 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:29,704 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:30,538 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:30,539 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中的卫生间配置了哪些卫生洁具？'. Retrying in 5s...
+2025-08-02 01:07:38,497 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:38,498 - INFO - Successfully processed image 0159-0007
+2025-08-02 01:07:38,503 - INFO - Checkpoint saved. Processed 40/764 images.
+2025-08-02 01:07:41,592 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:41,594 - INFO - Successfully processed image 0478-0825
+2025-08-02 01:07:41,739 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:42,249 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:43,265 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:43,266 - WARNING - API error (attempt 1/3) for question: '当前CAD图像里有无幕墙？'. Retrying in 5s...
+2025-08-02 01:07:51,248 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:07:51,250 - INFO - Successfully processed image 0386-0117
+2025-08-02 01:07:51,376 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:51,811 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:52,693 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:52,694 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个推拉门？'. Retrying in 5s...
+2025-08-02 01:07:57,820 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:07:58,258 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:01,892 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:01,956 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:02,391 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:07,118 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:11,609 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:11,611 - INFO - Successfully processed image 0173-0007
+2025-08-02 01:08:11,713 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:12,214 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:13,249 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:13,250 - WARNING - API error (attempt 1/3) for question: '当前CAD图像里有无窗？'. Retrying in 5s...
+2025-08-02 01:08:21,121 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:21,123 - INFO - Successfully processed image 1306-0169
+2025-08-02 01:08:24,473 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:24,539 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:25,030 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:25,929 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:25,930 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(17.53,80.6)的窗规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:08:31,059 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:31,613 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:35,501 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:35,502 - INFO - Successfully processed image 0496-0004
+2025-08-02 01:08:35,507 - INFO - Checkpoint saved. Processed 45/764 images.
+2025-08-02 01:08:35,662 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:39,373 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:39,455 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:39,947 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:40,818 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:40,819 - WARNING - API error (attempt 1/3) for question: '该空间属于哪种建筑功能类型？'. Retrying in 5s...
+2025-08-02 01:08:49,723 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:08:49,724 - INFO - Successfully processed image 0399-0060
+2025-08-02 01:08:49,901 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:50,350 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:51,413 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:08:51,414 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个双扇门？'. Retrying in 5s...
+2025-08-02 01:08:56,526 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:00,612 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:00,680 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:04,721 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:04,793 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:05,293 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:06,169 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:06,170 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(29.87,91.62)的推拉门规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:09:14,827 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:18,257 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:18,325 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:18,756 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:19,623 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:19,624 - WARNING - API error (attempt 1/3) for question: '煤气炉与冰箱的间距是否大于0.3m？'. Retrying in 5s...
+2025-08-02 01:09:24,774 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:25,240 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:29,648 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:29,649 - INFO - Successfully processed image 0136-0019
+2025-08-02 01:09:29,761 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:30,209 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:31,242 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:31,243 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在洗衣机？'. Retrying in 5s...
+2025-08-02 01:09:38,596 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:38,597 - INFO - Successfully processed image 0767-4515
+2025-08-02 01:09:41,198 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:41,261 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:41,746 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:42,655 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:42,656 - WARNING - API error (attempt 1/3) for question: '该空间属于哪种建筑功能类型？'. Retrying in 5s...
+2025-08-02 01:09:52,112 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:09:52,114 - INFO - Successfully processed image 0346-0266
+2025-08-02 01:09:52,235 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:52,682 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:53,633 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:09:53,634 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中是否存在排椅子？'. Retrying in 5s...
+2025-08-02 01:10:02,275 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:02,277 - INFO - Successfully processed image 0682-1039
+2025-08-02 01:10:02,282 - INFO - Checkpoint saved. Processed 50/764 images.
+2025-08-02 01:10:02,394 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:02,821 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:06,306 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:06,308 - INFO - Successfully processed image 1094-0027
+2025-08-02 01:10:06,430 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:06,936 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:07,882 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:07,883 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个双扇门？'. Retrying in 5s...
+2025-08-02 01:10:16,191 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:16,195 - INFO - Successfully processed image 1066-0022
+2025-08-02 01:10:19,218 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:19,296 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:19,760 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:20,585 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:20,586 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(96.35,32.45)的窗规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:10:30,318 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:30,320 - INFO - Successfully processed image 0077-0017
+2025-08-02 01:10:30,462 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:30,968 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:36,616 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:36,686 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:37,174 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:38,099 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:38,100 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(15.66,22.66)的双扇门规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:10:46,535 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:46,620 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:47,137 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:51,209 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:10:51,211 - INFO - Successfully processed image 0772-0036
+2025-08-02 01:10:51,365 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:51,809 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:52,749 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:10:52,750 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个空调装置？'. Retrying in 5s...
+2025-08-02 01:11:01,171 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:01,257 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:01,753 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:02,690 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:02,691 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(96.25,37.18)的床的实际面积是多少？'. Retrying in 5s...
+2025-08-02 01:11:11,219 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:14,338 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:14,340 - INFO - Successfully processed image 0436-0005
+2025-08-02 01:11:14,346 - INFO - Checkpoint saved. Processed 55/764 images.
+2025-08-02 01:11:14,494 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:14,962 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:16,036 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:16,037 - WARNING - API error (attempt 1/3) for question: '当前CAD图像里有无栏杆？'. Retrying in 5s...
+2025-08-02 01:11:24,462 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:24,546 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:29,535 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:29,619 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:30,044 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:31,039 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:31,040 - WARNING - API error (attempt 1/3) for question: '沙发与电视柜的间距是否大于2m？'. Retrying in 5s...
+2025-08-02 01:11:40,975 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:40,977 - INFO - Successfully processed image 0496-0007
+2025-08-02 01:11:41,176 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:41,662 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:42,703 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:42,704 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个浴室？'. Retrying in 5s...
+2025-08-02 01:11:50,442 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:54,130 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:11:54,241 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:54,793 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:55,828 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:11:55,829 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中位于(64.51,4.31)的窗规格参数是多少？'. Retrying in 5s...
+2025-08-02 01:12:03,856 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:12:03,964 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:04,416 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:05,519 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:05,520 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中的卫生间配置了哪些卫生洁具？'. Retrying in 5s...
+2025-08-02 01:12:10,681 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:13,967 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:12:13,969 - INFO - Successfully processed image 0448-0023
+2025-08-02 01:12:14,064 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:14,537 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:18,283 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:12:18,285 - INFO - Successfully processed image 0674-0166
+2025-08-02 01:12:18,497 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:21,302 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:12:21,304 - INFO - Successfully processed image 0373-0012
+2025-08-02 01:12:21,453 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:21,974 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:22,955 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:22,956 - WARNING - API error (attempt 1/3) for question: '当前CAD图像中有几个楼梯？'. Retrying in 5s...
+2025-08-02 01:12:30,619 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-02 01:12:30,705 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-08-02 01:12:32,414 - INFO - Final checkpoint saved.
