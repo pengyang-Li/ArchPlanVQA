@@ -18,7 +18,7 @@ def parse_args():
                         help='save the downloaded data')
     parser.add_argument('--cad_qa', type=str, default="/home/jupyter-lpy/project/target_detection/CAD_VQA/data/small_dataset.json",
                         help='save the downloaded data')
-    parser.add_argument('--api_key', type=str, default="sk-zCm3XHNcIs1SUGuS84D9C7B2Ea6140DdA66b55E0FfF02220",
+    parser.add_argument('--api_key', type=str, default="sk-xxx",
                         help='Path to save the results')
     parser.add_argument('--output', type=str, default="/home/jupyter-lpy/project/target_detection/CAD_VQA/gemini1.5pro/output/gemini1.5pro_result3/",
                         help='Path to save the results')
