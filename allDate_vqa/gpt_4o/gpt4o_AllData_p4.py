@@ -56,7 +56,7 @@ def parse_args():
     parser.add_argument('--cad_qa', type=str,
                         default="/home/jupyter-lpy/project/target_detection/SymPoint_main/dataset_FloorplanCAD/test/cad_qa_test.json",
                         help='')
-    parser.add_argument('--api_key', type=str, default="sk-BzWKynfsowOITmpR68F96e3500Ca4f2588C3D111FfD8D406",
+    parser.add_argument('--api_key', type=str, default="sk-xxx",
                         help='')
     parser.add_argument('--output', type=str,
                         default="/home/jupyter-lpy/project/target_detection/CAD_VQA/allDate_vqa/gpt_4o/output/test/",
