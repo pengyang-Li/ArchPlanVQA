@@ -56,7 +56,7 @@ def parse_args():
     parser.add_argument('--cad_qa', type=str,
                         default="/home/jupyter-lpy/project/target_detection/SymPoint_main/dataset_FloorplanCAD/train/cad_qa_train.json",
                         help='')
-    parser.add_argument('--api_key', type=str, default="sk-FywUyiOeV7P8YNwC0361Ff6a194d4e0484EbC869Ed0a5735",
+    parser.add_argument('--api_key', type=str, default="sk-xxx",
                         help='')
     parser.add_argument('--output', type=str,
                         default="/home/jupyter-lpy/project/target_detection/CAD_VQA/allDate_vqa/gemini1.5pro/output/train/",
