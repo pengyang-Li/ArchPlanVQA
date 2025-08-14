@@ -23,7 +23,7 @@ def parse_args():
                         default="/home/jupyter-lpy/project/target_detection/CAD_VQA/data/not_synonyms.json",
                         help='What is stored are non-standard words.')
     parser.add_argument('--api_key', type=str,
-                        default="sk-ljbdphromcnxchfgbcvaxvlcslukcaasqmqafddompcgxeun",
+                        default="sk-xxx",
                         help='')
     parser.add_argument('--llm_pred', type=str, default="/home/jupyter-lpy/project/target_detection/CAD_VQA/allDate_vqa/qwen/删除推理后的评估数据.json",
                         help='What is stored are the prediction results of the model.')
