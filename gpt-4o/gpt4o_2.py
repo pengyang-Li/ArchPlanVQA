@@ -18,7 +18,7 @@ def parse_args():
                         help='save the downloaded data')
     parser.add_argument('--cad_qa', type=str, default="/home/jupyter-lpy/project/target_detection/CAD_VQA/data/small_dataset.json",
                         help='save the downloaded data')
-    parser.add_argument('--api_key', type=str, default="sk-yZs0Ade20gsGLWFL3aAdCfAdB41a49A284E281Ee08C2D5D2",
+    parser.add_argument('--api_key', type=str, default="sk-xxx",
                         help='Path to save the results')
     parser.add_argument('--output', type=str, default="/home/jupyter-lpy/project/target_detection/CAD_VQA/gpt-4o/output/gpt4o_result2/",
                         help='Path to save the results')
